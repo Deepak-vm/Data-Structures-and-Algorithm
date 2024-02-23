@@ -1,1 +1,1 @@
-This compilation comprises all the code I crafted while studying Data Structures and Algorithms (DSA) from Youtube (Love Babbar , Abdul Bari).
+ This repository is a collection of code that showcases my dedicated practice in solving Data Structures and Algorithms problems. 
