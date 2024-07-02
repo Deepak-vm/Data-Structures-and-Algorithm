@@ -8,8 +8,8 @@ int main() {
     vector<char> arr = {'a', 'b', 'c', 'a', 'b', 'a', 'd', 'e', 'a', 'b', 'c'};
     unordered_map<char, int> freqMap;
 
-    for (char ch : arr) {
-        freqMap[ch]++;
+    for (int i = 0; i < arr.size(); i++) {
+        freqMap[arr[i]]++;
     }
 
     cout << "Frequency of each alphabet:" << endl;
